@@ -1,10 +1,39 @@
-main{
-    margin-left: 50px;
-    margin-right: 50px;
-}
-.img {
-    max-width: 50%;
+#main {
+    margin: 50px;
+  
+  }
+  #title{
+      text-align: center;
+  }
+  p{
+      text-align: center;
+      font-size: 1.5rem;
+  }
+  
+  #img-caption{
+      text-align: center;
+    font-size: 1rem;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+  }
+  h3 {
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 0;
+    background: #eee;
+    padding: 15px;
+  }
+  
+  img {
+    max-width: 100%;
     display: block;
     height: auto;
     margin: 0 auto;
   }
+  
+  #image {
+      max-width: 100%;
+      }
